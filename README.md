@@ -1,10 +1,10 @@
 # ULS_ARTICULOS
 Sencillo sistema de inventario desarrollado con python
 
-Desarrollo.
-Python 2.3
-Libreria grafica tkinter
-Gestor de base de datos sqlite3
+# Desarrollo:
+Python 2.3,
+libreria grafica tkinter,
+gestor de base de datos sqlite3.
 
 Para que este proyecto te funcione debes de tener en tu entorno de desarrollo instalado o corriendo los mencionados anteriormente.
 
